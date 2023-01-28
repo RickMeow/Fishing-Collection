@@ -1,5 +1,5 @@
 # Fishing-Collection
-Personal development of small projects
+## Personal development of small projects
 
 There is a commit for the main branch.
 
