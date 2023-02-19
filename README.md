@@ -13,3 +13,7 @@ Git test:
 - git diff
 - git add
 - git commit
+- git log
+- git reset --hard HEAD^ (reset)
+- git config http.postBuffer 524288000(no use)
+- delete and push again
